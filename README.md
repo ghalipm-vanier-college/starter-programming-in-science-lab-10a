@@ -1,4 +1,3 @@
-# starter-programming-in-science-lab-10a
 
 ##  **README.md**
 
